@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Asp.Net Core Blog Project](https://github.com/enesscigdem/Asp.Net-Core-7.0-MVC-3-panelli-Blog-Projesi)
 
-- 🌱 I’m currently learning **.Net Core 7.0**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://bionluk.com/enescigdem](https://bionluk.com/enescigdem)
 
