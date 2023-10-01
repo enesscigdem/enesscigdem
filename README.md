@@ -1,14 +1,10 @@
-![MasterHead](https://arka-buckets.s3.us-east-2.amazonaws.com/uploads/2022/02/Microsoft-dot-net-development.jpg)
+![MasterHead]([https://arka-buckets.s3.us-east-2.amazonaws.com/uploads/2022/02/Microsoft-dot-net-development.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intuz.com%2Fguide-to-full-stack-development&psig=AOvVaw3GvKHEXNi0JYoi4uOAL7XA&ust=1696208490272000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDagZjT04EDFQAAAAAdAAAAABAD))
 <h1 align="center">Hi 👋, I'm Enes Cigdem</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesscigdem&label=Profile%20views&color=0e75b6&style=flat" alt="enesscigdem" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Asp.Net Core Blog Project](https://github.com/enesscigdem/Asp.Net-Core-7.0-MVC-3-panelli-Blog-Projesi)
-
-[- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://bionluk.com/enescigdem](https://bionluk.com/enescigdem)](url)
 
