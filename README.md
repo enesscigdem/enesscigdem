@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at https://bionluk.com/enescigdem https://bionluk.com/enescigdem
+- 👨‍💻 All of my projects are available at [https://bionluk.com/enescigdem] https://bionluk.com/enescigdem
 
 - 💬 Ask me about **C#, .Net, Mvc, Entity Framework, Database...**
 
