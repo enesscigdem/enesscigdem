@@ -1,4 +1,4 @@
-![MasterHead](https://images.prismic.io//intuzwebsite/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main.png?w=1200&q=80&auto=format,compress&fm=png8)
+![MasterHead]([https://images.prismic.io//intuzwebsite/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main.png?w=1200&q=80&auto=format,compress&fm=png8])
 <h1 align="center">Hi 👋, I'm Enes Cigdem</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0">
