@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Cigdem</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesscigdem&label=Profile%20views&color=0e75b6&style=flat" alt="enesscigdem" /> </p>
 
