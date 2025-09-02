@@ -1,24 +1,164 @@
-<h1 align="center">Hi 👋, I'm Enes Cigdem</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesscigdem&label=Profile%20views&color=0e75b6&style=flat" alt="enesscigdem" /> </p>
+<!-- Profile Header Banner -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 Platform where I work as a freelancer [https://bionluk.com/enescigdem]
-
-- 💬 Ask me about **C#, .Net, Mvc, Entity Framework, Database...**
-
-- 📫 How to reach me **enescigdeem@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/enescigdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enescigdem" height="30" width="40" /></a>
-<a href="https://instagram.com/enesscigdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesscigdem" height="30" width="40" /></a>
-<a href="https://discord.gg/3215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3215" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E34,100:D4A373&height=200&section=header&text=Enes%20Cigdem&fontSize=60&fontAlignY=35&animation=twinkling&desc=A%20passionate%20Full%20Stack%20Developer%20from%20Turkey&descAlignY=55&descAlign=50" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<!-- Animated Typing Intro -->
 
+<p align="center">
+  <a href="https://github.com/enesscigdem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=D4A373&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Enes!;Full+Stack+.NET+Developer;Clean+Code+%7C+SOLID+%7C+DDD;Microservices+%26+Cloud+Native;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
+<!-- Subtle Animated Separator (sepia tones) -->
+
+<p align="center">
+  <img alt="sepia line" src="https://capsule-render.vercel.app/api?type=rect&color=8B5E34&height=2&section=footer" width="100%"/>
+</p>
+
+<!-- Quick Badges -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enesscigdem&label=Profile%20Views&color=8B5E34&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/enescigdem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:enescigdeem@gmail.com"><img src="https://img.shields.io/badge/Email-enescigdeem%40gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/enesscigdem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/3215"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+### 👋 About me
+
+* 🇹🇷 I'm a full‑stack .NET developer from **Turkey**
+* 👨‍💻 Freelancer at: **[bionluk.com/enescigdem](https://bionluk.com/enescigdem)**
+* 💬 Ask me about: **C#, .NET, MVC, Entity Framework, Microservices, Cloud**
+* 📫 How to reach me: **[enescigdeem@gmail.com](mailto:enescigdeem@gmail.com)**
+* 🎯 Goal: Build robust, scalable systems people love to use
+
+---
+
+## 🧰 Tech Stack
+
+<!-- Core -->
+
+**Backend (.NET Ecosystem)**
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-6b3fa0?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20API-0ea5e9?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-2c3e50?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediatR-ff6b6b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoMapper-f97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SignalR-2563EB?style=for-the-badge&logo=signal&logoColor=white"/>
+</p>
+
+**Architectures & Patterns**
+
+<p>
+  <img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DDD-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CQRS-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0f766e?style=for-the-badge"/>
+</p>
+
+**Databases & Messaging**
+
+<p>
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caching-22c55e?style=for-the-badge"/>
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-7F5539?style=for-the-badge&logo=react&logoColor=D4A373"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+**Desktop & Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Avalonia-3b82f6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WPF-0f172a?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+**Testing & Docs**
+
+<p>
+  <img src="https://img.shields.io/badge/xUnit-6b7280?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NUnit-4b5563?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enesscigdem&show_icons=true&theme=gruvbox" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=enesscigdem&theme=gruvbox" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesscigdem&layout=compact&theme=gruvbox" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enesscigdem&theme=gruvbox&row=1&no-frame=true&margin-w=15&row=1&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/enescigdem"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://instagram.com/enesscigdem"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://discord.gg/3215"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a>
+</p>
+
+---
+
+<details>
+  <summary>🐍 Fun: Contribution Snake (click to expand)</summary>
+
+  <!-- Enable by adding the GitHub Action below to your repo -->
+
+  <p>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  </p>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer" />
+</p>
